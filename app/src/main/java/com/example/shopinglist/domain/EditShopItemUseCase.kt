@@ -1,6 +1,6 @@
 package com.example.shopinglist.domain
 
-class editShopItemUseCase {
+class EditShopItemUseCase {
 
     fun editShopItem(shopItemId: Int) {
         TODO()

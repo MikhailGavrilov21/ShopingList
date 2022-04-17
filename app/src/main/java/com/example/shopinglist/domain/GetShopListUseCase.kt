@@ -1,6 +1,6 @@
 package com.example.shopinglist.domain
 
-class getShopListUseCase {
+class GetShopListUseCase {
 
     fun getShopList(): List<ShopItem> {
         TODO()
